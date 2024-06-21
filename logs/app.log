@@ -1,0 +1,153 @@
+2024-06-21 08:57:36 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: This student is already registered in the repository. User typed: 1001005412173
+2024-06-21 09:00:05 ERROR StudentRepository:136 - User input: 
+2024-06-21 09:00:24 ERROR StudentRepository:136 - User input: 
+2024-06-21 09:01:02 ERROR StudentRepository:136 - User input: 
+2024-06-21 09:01:02 ERROR StudentRepository:136 - User input:  
+2024-06-21 09:01:02 ERROR StudentRepository:136 - User input: birth
+2024-06-21 09:05:31 ERROR StudentRepository:105 - Invalid ID! User typed:
+2024-06-21 09:07:01 ERROR StudentRepository:108 - Invalid ID! User typed:-15
+2024-06-21 09:07:32 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 09:07:32 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 09:07:43 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 09:07:43 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 09:07:54 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:07:54 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:08:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 09:08:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 09:08:21 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 09:08:21 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 09:08:21 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 09:10:08 ERROR StudentRepository:86 - Invalid ID! User typed: 
+2024-06-21 09:10:08 ERROR StudentRepository:86 - Invalid ID! User typed: 2001005412173
+2024-06-21 09:10:49 ERROR StudentRepository:136 - User input: 
+2024-06-21 09:10:49 ERROR StudentRepository:136 - User input:  
+2024-06-21 09:10:49 ERROR StudentRepository:136 - User input: birth
+2024-06-21 09:11:12 ERROR StudentRepository:105 - Invalid ID! User typed:
+2024-06-21 09:11:45 ERROR StudentRepository:108 - Invalid ID! User typed:-15
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 09:19:57 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: ""
+2024-06-21 09:19:57 ERROR StudentRepository:133 - java.lang.IllegalArgumentException
+2024-06-21 09:19:57 ERROR StudentRepository:133 - java.lang.IllegalArgumentException
+2024-06-21 09:19:57 ERROR StudentRepository:133 - java.lang.IllegalArgumentException
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 09:19:57 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:19:57 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 09:19:57 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 09:19:57 ERROR StudentRepository:108 - Invalid ID! User typed:-15
+2024-06-21 09:21:49 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 09:21:49 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 09:22:15 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 09:22:15 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 09:22:42 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:22:42 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 09:23:06 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 09:23:06 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 09:23:28 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 09:23:28 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 09:23:28 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 09:24:11 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:24:11 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:25:55 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:25:55 ERROR StudentRepository:86 - java.lang.IllegalArgumentException
+2024-06-21 09:27:37 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID! User typed:
+2024-06-21 09:27:37 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID! User typed:2001005412173
+2024-06-21 09:29:49 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 09:29:49 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:2001005412173
+2024-06-21 09:30:17 ERROR StudentRepository:132 - java.lang.IllegalArgumentException
+2024-06-21 09:30:17 ERROR StudentRepository:132 - java.lang.IllegalArgumentException
+2024-06-21 09:30:17 ERROR StudentRepository:132 - java.lang.IllegalArgumentException
+2024-06-21 09:32:30 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:32:30 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:32:30 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:34:15 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:34:15 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:34:15 ERROR StudentRepository:130 - java.lang.IllegalArgumentException
+2024-06-21 09:37:27 ERROR StudentRepository:129 - java.lang.IllegalArgumentException: Invalid option. Try again! User input= 
+2024-06-21 09:37:27 ERROR StudentRepository:129 - java.lang.IllegalArgumentException: Invalid option. Try again! User input=  
+2024-06-21 09:37:27 ERROR StudentRepository:129 - java.lang.IllegalArgumentException: Invalid option. Try again! User input= birth
+2024-06-21 09:38:12 ERROR StudentRepository:103 - java.lang.NumberFormatException: For input string: ""Invalid input! Age must be a number! Try again! User typed:
+2024-06-21 09:38:26 ERROR StudentRepository:105 - java.lang.IllegalArgumentException: Invalid input! Age can not be less than 0!! Try again! User typed:-15
+2024-06-21 09:41:07 ERROR StudentRepository:103 - java.lang.NumberFormatException: For input string: ""Invalid input! Age must be a number! Try again! User typed:
+2024-06-21 09:41:07 ERROR StudentRepository:103 - java.lang.NumberFormatException: For input string: "nineteen"Invalid input! Age must be a number! Try again! User typed:nineteen
+2024-06-21 09:42:22 ERROR StudentRepository:103 - java.lang.NumberFormatException: For input string: ""Invalid input! Age must be a number! Try again!
+2024-06-21 09:42:22 ERROR StudentRepository:103 - java.lang.NumberFormatException: For input string: "nineteen"Invalid input! Age must be a number! Try again!
+2024-06-21 09:44:35 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 09:44:35 ERROR StudentRepository:85 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:2001005412173
+2024-06-21 09:48:49 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 09:48:49 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! Student does not exist! User typed:2001005412173
+2024-06-21 09:49:58 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "" Invalid input! Age must be a number! Try again!
+2024-06-21 09:49:58 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "nineteen" Invalid input! Age must be a number! Try again!
+2024-06-21 09:50:11 ERROR StudentRepository:107 - java.lang.IllegalArgumentException: Invalid input! Age can not be less than 0!! Try again! User typed:-15
+2024-06-21 09:50:24 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "" Invalid input! Age must be a number! Try again!
+2024-06-21 09:50:24 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "nineteen" Invalid input! Age must be a number! Try again!
+2024-06-21 09:51:04 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option. Try again! User input= 
+2024-06-21 09:51:04 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option. Try again! User input=  
+2024-06-21 09:51:04 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option. Try again! User input= birth
+2024-06-21 09:53:05 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= 
+2024-06-21 09:53:05 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input=  
+2024-06-21 09:53:05 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= birth
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 16:09:35 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= 
+2024-06-21 16:09:35 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input=  
+2024-06-21 16:09:35 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= birth
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 16:09:35 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 16:09:35 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! Student does not exist! User typed:2001005412173
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 16:09:35 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 16:09:36 ERROR StudentRepository:107 - java.lang.IllegalArgumentException: Invalid input! Age can not be less than 0!! Try again! User typed:-15
+2024-06-21 16:09:36 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "" Invalid input! Age must be a number! Try again!
+2024-06-21 16:09:36 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "nineteen" Invalid input! Age must be a number! Try again!
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 16:10:01 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= 
+2024-06-21 16:10:01 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input=  
+2024-06-21 16:10:01 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= birth
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 16:10:01 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 16:10:01 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! Student does not exist! User typed:2001005412173
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 16:10:01 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 16:10:01 ERROR StudentRepository:107 - java.lang.IllegalArgumentException: Invalid input! Age can not be less than 0!! Try again! User typed:-15
+2024-06-21 16:10:01 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "" Invalid input! Age must be a number! Try again!
+2024-06-21 16:10:01 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "nineteen" Invalid input! Age must be a number! Try again!
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for last name. Last name can not be an empty string!
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for last name. Last name can not be an empty string!
+2024-06-21 16:14:08 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= 
+2024-06-21 16:14:08 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input=  
+2024-06-21 16:14:08 ERROR StudentRepository:131 - java.lang.IllegalArgumentException: Invalid option! (Input should be 'name' or 'date') Try again! User input= birth
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: k
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Gender should be male or female (or M and F)- both upper and lower case are accepted. User typed: 
+2024-06-21 16:14:08 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! User typed:
+2024-06-21 16:14:08 ERROR StudentRepository:87 - java.lang.IllegalArgumentException: Invalid ID to delete! Student does not exist! User typed:2001005412173
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 1899. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Invalid date of birth! User typed: 2007. Year of birth must be an year between 1900 and 2006
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:  for first name. First name can not be an empty string!
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: User typed:   for first name. First name can not be an empty string!
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: ion
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 
+2024-06-21 16:14:08 ERROR StudentRepository:67 - java.lang.IllegalArgumentException: Id must be a number with more then 11 digits (13 digits for romanian students). User typed: 565144
+2024-06-21 16:14:08 ERROR StudentRepository:107 - java.lang.IllegalArgumentException: Invalid input! Age can not be less than 0!! Try again! User typed:-15
+2024-06-21 16:14:08 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "" Invalid input! Age must be a number! Try again!
+2024-06-21 16:14:08 ERROR StudentRepository:105 - java.lang.NumberFormatException: For input string: "nineteen" Invalid input! Age must be a number! Try again!
