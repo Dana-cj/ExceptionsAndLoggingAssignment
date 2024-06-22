@@ -108,7 +108,7 @@ public class StudentRepository {
         }
         return false;
     }
-    public boolean getStudentsWithTheSameAge(String ageString){
+    public boolean retrieveStudentsWithTheSameAge(String ageString){
         if(inputAgeIsCorrect(ageString)) {
             int finalAge = Integer.parseInt(ageString);
             students.stream().filter(student -> student.getAge() == finalAge).forEach(System.out::println);

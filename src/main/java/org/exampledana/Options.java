@@ -3,7 +3,8 @@ package org.exampledana;
 public enum Options {
     ADD,
     DELETE,
-    GET,
+
+    RETRIEVE,
    LIST,
     QUIT
 }

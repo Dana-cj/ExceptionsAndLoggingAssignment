@@ -70,12 +70,12 @@ public class Main {
                             informationIsCorrect=studentRepository.validateAndListStudentsOrdered(comparator);
                         } while (!informationIsCorrect);
                     }
-                    case GET -> {
+                    case RETRIEVE -> {
                         boolean informationIsCorrect= false;
                         do {
                             System.out.println("You want to list all students with a certain age. Type the age of students: ");
                             String ageString = scan.nextLine();
-                            informationIsCorrect=studentRepository.getStudentsWithTheSameAge(ageString);
+                            informationIsCorrect=studentRepository.retrieveStudentsWithTheSameAge(ageString);
                         } while (!informationIsCorrect);
                     }
                 }

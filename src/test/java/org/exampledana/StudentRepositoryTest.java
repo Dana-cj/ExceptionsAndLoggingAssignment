@@ -113,7 +113,7 @@ public class StudentRepositoryTest {
         studentRepositoryTest.addStudent("Ion", "David", 05, 10, 1980, "m", "2001005412173");
         studentRepositoryTest.printStudents();
         System.out.println("-".repeat(15));
-        Assertions.assertTrue(studentRepositoryTest.getStudentsWithTheSameAge("24"));
+        Assertions.assertTrue(studentRepositoryTest.retrieveStudentsWithTheSameAge("24"));
     }
     @Test
     public void getOptionWorksWhenInputIsEmptyOrNaN() {
@@ -122,8 +122,8 @@ public class StudentRepositoryTest {
         studentRepositoryTest.addStudent("Ion", "David", 05, 10, 1980, "m", "2001005412173");
         studentRepositoryTest.printStudents();
         System.out.println("-".repeat(15));
-        Assertions.assertFalse(studentRepositoryTest.getStudentsWithTheSameAge(""));
-        Assertions.assertFalse(studentRepositoryTest.getStudentsWithTheSameAge("nineteen"));
+        Assertions.assertFalse(studentRepositoryTest.retrieveStudentsWithTheSameAge(""));
+        Assertions.assertFalse(studentRepositoryTest.retrieveStudentsWithTheSameAge("nineteen"));
     }
     @Test
     public void getOptionWorksWhenInputIsNegative() {
@@ -132,6 +132,6 @@ public class StudentRepositoryTest {
         studentRepositoryTest.addStudent("Ion", "David", 05, 10, 1980, "m", "2001005412173");
         studentRepositoryTest.printStudents();
         System.out.println("-".repeat(15));
-        Assertions.assertFalse(studentRepositoryTest.getStudentsWithTheSameAge("-15"));
+        Assertions.assertFalse(studentRepositoryTest.retrieveStudentsWithTheSameAge("-15"));
     }
 }
