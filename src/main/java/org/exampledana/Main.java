@@ -91,7 +91,7 @@ public class Main {
         Student repository supports the following operations:
             - ADD a new student (type "ADD" if you want to add a new student);
             - DELETE student by ID - identifier (type "DELETE" if you want to delete a student);
-            - GET all students with a certain age  (type "GET" if you want to retrieve all students with a certain age);
+            - RETRIEVE all students with a certain age  (type "RETRIEVE" if you want to retrieve all students with a certain age);
             - LIST students order by Last Name or Birth Date  (type "LIST" if you want to list students);
             - QUIT - type "QUIT" if you want to exit.
         Enter your option: 
